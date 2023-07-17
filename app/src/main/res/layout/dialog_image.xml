@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom|center_horizontal"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/dialog_prompt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="a child in the school"
+            android:textAlignment="center"
+            android:textColor="@color/textColor"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/dialog_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/example_cat"
+        android:contentDescription="xxx"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom|center_horizontal"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"/>
+    <!-- Add additional views here -->
+
+</FrameLayout>

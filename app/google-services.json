@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255111147736",
+    "project_id": "phogene-8d90c",
+    "storage_bucket": "phogene-8d90c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255111147736:android:50f990bc0c60b9ee7a67ad",
+        "android_client_info": {
+          "package_name": "com.hazemjday.phogene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255111147736-162dc4d6dhr7pk1r6mhh61s2c70s3rfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjZYVeM31LAqIkjIs6TAnGYBnFqKTgXww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255111147736-162dc4d6dhr7pk1r6mhh61s2c70s3rfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

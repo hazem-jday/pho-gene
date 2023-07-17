@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <color name="colorPrimary">#1F5BF3</color>
+    <color name="colorPrimaryDark">#0947E8</color>
+    <color name="colorAccent">#00A5FF</color>
+
+
+    <color name="colorBG">#ffecd1</color>001524
+    <color name="colorFG">#56cfe1</color>15616d
+    <color name="color1">#ffffff</color>ffecd1
+    <color name="color2">#78290f</color>ff7d00
+    <color name="color3">#ff7d00</color>78290f
+    <color name="blueLogo">#245AE0</color>
+    <color name="textColor">#000</color>
+
+    <color name="hover">#78290f</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#2661FA</color>
+    <color name="loginBkColor">#f0f0f0</color>
+
+    <!--colros for card-->
+</resources>
